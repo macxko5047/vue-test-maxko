@@ -1,5 +1,5 @@
 # vue-test
-
+git clone : https://github.com/macxko5047/vue-test-maxko.git
 id : 1111
 pass : 1111
 
